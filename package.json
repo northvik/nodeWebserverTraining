@@ -24,7 +24,7 @@
     "@types/restify": "2.0.42",
     "@types/slug": "0.9.1",
     "@types/soap": "0.18.0",
-    "cucumber": "0.10.4",
+    "cucumber": "5.1.0",
     "glob": "7.1.4",
     "lodash": "4.17.11",
     "mocha": "5.2.0",
