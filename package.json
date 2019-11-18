@@ -19,7 +19,7 @@
     "@types/cucumber": "0.0.39",
     "@types/glob": "7.1.1",
     "@types/lodash": "4.14.149",
-    "@types/mocha": "2.2.48",
+    "@types/mocha": "5.2.7",
     "@types/node": "8.10.59",
     "@types/restify": "2.0.42",
     "@types/slug": "0.9.1",
