@@ -31,6 +31,6 @@
     "must": "0.13.4",
     "tslint": "5.20.1",
     "tslint-eslint-rules": "5.4.0",
-    "typescript": "3.9.8"
+    "typescript": "3.9.9"
   }
 }
