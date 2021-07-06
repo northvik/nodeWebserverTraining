@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/bunyan": "1.8.7",
     "@types/config": "0.0.39",
-    "@types/cucumber": "0.0.39",
+    "@types/cucumber": "6.0.1",
     "@types/glob": "7.1.4",
     "@types/lodash": "4.14.170",
     "@types/mocha": "2.2.48",
@@ -24,7 +24,7 @@
     "@types/restify": "2.0.42",
     "@types/slug": "0.9.1",
     "@types/soap": "0.18.0",
-    "cucumber": "0.10.4",
+    "cucumber": "6.0.5",
     "glob": "7.1.7",
     "lodash": "4.17.21",
     "mocha": "5.2.0",
