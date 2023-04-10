@@ -18,7 +18,7 @@
     "@types/config": "0.0.41",
     "@types/cucumber": "0.0.39",
     "@types/glob": "7.2.0",
-    "@types/lodash": "4.14.191",
+    "@types/lodash": "4.14.192",
     "@types/mocha": "2.2.48",
     "@types/node": "8.10.66",
     "@types/restify": "2.0.42",
