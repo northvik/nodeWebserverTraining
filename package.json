@@ -14,7 +14,7 @@
     "hbs": "^4.0.0"
   },
   "devDependencies": {
-    "@types/bunyan": "1.8.9",
+    "@types/bunyan": "1.8.10",
     "@types/config": "0.0.41",
     "@types/cucumber": "0.0.39",
     "@types/glob": "7.2.0",
