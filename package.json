@@ -23,7 +23,7 @@
     "@types/node": "8.10.66",
     "@types/restify": "2.0.42",
     "@types/slug": "0.9.1",
-    "@types/soap": "0.18.0",
+    "@types/soap": "0.21.0",
     "@cucumber/cucumber": "7.3.2",
     "glob": "7.2.3",
     "lodash": "4.17.21",
