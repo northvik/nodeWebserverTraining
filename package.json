@@ -27,7 +27,7 @@
     "@cucumber/cucumber": "7.3.2",
     "glob": "7.2.3",
     "lodash": "4.17.21",
-    "mocha": "5.2.0",
+    "mocha": "11.7.1",
     "must": "0.13.4",
     "tslint": "5.20.1",
     "tslint-eslint-rules": "5.4.0",
