@@ -26,7 +26,7 @@
     "@types/soap": "0.21.0",
     "@cucumber/cucumber": "7.3.2",
     "glob": "7.2.3",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mocha": "5.2.0",
     "must": "0.13.4",
     "tslint": "5.20.1",
