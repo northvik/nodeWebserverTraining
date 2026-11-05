@@ -22,7 +22,7 @@
     "@types/mocha": "2.2.48",
     "@types/node": "8.10.66",
     "@types/restify": "2.0.42",
-    "@types/slug": "0.9.1",
+    "@types/slug": "5.0.9",
     "@types/soap": "0.21.0",
     "@cucumber/cucumber": "7.3.2",
     "glob": "7.2.3",
